@@ -8,9 +8,9 @@ The conceptual analogy that drives the process was taken from a number sequence 
 
 The piece is in progress, but I have arranged some of the "me" movement (me.scd in analogy/youmelace/scd), which will later form part of a final "[you, me].lace" movement. I have tried to extend the concept of interleaving to the way that the material is distributed across two pianos, and also to the way the two musicians at each piano cross hands and become physically interleaved. 
 
-Some audio extracts can be found in analogy/youmelace/audio; 
-the current pdf score for workshop is "analogy/youmelace/Piano Ensemble Sketches 1.pdf"; 
-and a short video of work in progress live [here](https://www.dropbox.com/s/wzur3x6dksiuysp/Improvising%20with%20ME_2023-01-31%20at%2017.02.38.mov?dl=0)
+* Some audio extracts can be found in analogy/youmelace/audio
+* The current pdf score for workshop is "analogy/youmelace/Piano Ensemble Sketches 1.pdf"
+* A short video of work in progress live [here](https://www.dropbox.com/s/wzur3x6dksiuysp/Improvising%20with%20ME_2023-01-31%20at%2017.02.38.mov?dl=0)
 
 ## everyone is covered in flowers (two tenor viols) - in analogy/viols
 
@@ -46,10 +46,7 @@ In this case, the phrase suggests a joyful, festive atmosphere, with everyone su
 
 </div>
 
-The continuation of the piece will explore ornamentation, inspired by the given title.
-
-Examples of the generated chains of pitch intervals can be found in analogy/viols/output
-
-The notated music in progress can be found in "analogy/viols/pdf/everyone is covered in flowers - Full Score.pdf"
-
-The code is found in "analogy/viols/scd/VDG Duets.scd"
+* The continuation of the piece will explore ornamentation, inspired by the given title.
+* Examples of the generated chains of pitch intervals can be found in analogy/viols/output
+* The notated music in progress can be found in "analogy/viols/pdf/everyone is covered in flowers - Full Score.pdf"
+* The code is found in "analogy/viols/scd/VDG Duets.scd"
