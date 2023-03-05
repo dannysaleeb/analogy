@@ -8,6 +8,10 @@ The conceptual analogy that drives the process was taken from a number sequence 
 
 The piece is in progress, but I have arranged some of the "me" movement (me.scd in analogy/youmelace/scd), which will later form part of a final "[you, me].lace" movement. I have tried to extend the concept of interleaving to the way that the material is distributed across two pianos, and also to the way the two musicians at each piano cross hands and become physically interleaved. 
 
+Some audio extracts can be found in analogy/youmelace/audio; 
+the current pdf score for workshop is "analogy/youmelace/Piano Ensemble Sketches 1.pdf"; 
+and a short video of work in progress live [here](https://www.dropbox.com/s/wzur3x6dksiuysp/Improvising%20with%20ME_2023-01-31%20at%2017.02.38.mov?dl=0)
+
 ## everyone is covered in flowers (two tenor viols) - in analogy/viols
 
 I am using this short piece as an opportunity to experiment with incorporating the results of statistical analysis of existing music into the process of generating material for my own music, and in this case a simple Markov Chain. I hope this lays the foundation for more complex experiments that allow me to formalise analogy-making between existing music and new.
@@ -20,20 +24,32 @@ The piece is entitled "everyone is covered in flowers" after an exchange with Ch
 
 <div align='center'>
 
-DS:         what does "que todos sepassan en flores" mean?
+**DS**:         
+what does "que todos sepassan en flores" mean?
 
-ChatGPT:    The phrase "que todos se pasan en flores" is not a standard expression in Spanish, and it does not have a clear or direct translation into English.
+**ChatGPT**:    
+The phrase "que todos se pasan en flores" is not a standard expression in Spanish, and it does not have a clear or direct translation into English.
 
 It is possible that this phrase was intended to mean "that everyone is covered in flowers" or "that everyone is immersed in flowers". However, without more context or information about the origin of the phrase, it's difficult to determine the intended meaning with certainty.
 
 If you can provide more context or information about the origin of the phrase, I may be able to provide a more accurate interpretation.
 
-DS:         It is the title of an imitative piece of music for two viols
+**DS**:         
+It is the title of an imitative piece of music for two viols
 
-ChatGPT:    Ah, in that case, "Que todos se pasan en flores" could be translated as "May everyone revel in flowers."
+**ChatGPT**:    
+Ah, in that case, "Que todos se pasan en flores" could be translated as "May everyone revel in flowers."
 
 As a title of a piece of music, it is not necessarily meant to have a direct and literal meaning, but rather to evoke a particular mood or feeling that the composer wants to convey through the music.
 
 In this case, the phrase suggests a joyful, festive atmosphere, with everyone surrounded by and celebrating with flowers. The music may be intended to capture this sense of celebration and joy.
 
 </div>
+
+The continuation of the piece will explore ornamentation, inspired by the given title.
+
+Examples of the generated chains of pitch intervals can be found in analogy/viols/output
+
+The notated music in progress can be found in "analogy/viols/pdf/everyone is covered in flowers - Full Score.pdf"
+
+The code is found in "analogy/viols/scd/VDG Duets.scd"
