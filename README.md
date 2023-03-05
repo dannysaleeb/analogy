@@ -18,6 +18,8 @@ I have not yet applied this such that specific pitches are generated, as I felt 
 
 The piece is entitled "everyone is covered in flowers" after an exchange with ChatGPT:
 
+<div align='center'>
+
 DS:         what does "que todos sepassan en flores" mean?
 
 ChatGPT:    The phrase "que todos se pasan en flores" is not a standard expression in Spanish, and it does not have a clear or direct translation into English.
@@ -33,3 +35,5 @@ ChatGPT:    Ah, in that case, "Que todos se pasan en flores" could be translated
 As a title of a piece of music, it is not necessarily meant to have a direct and literal meaning, but rather to evoke a particular mood or feeling that the composer wants to convey through the music.
 
 In this case, the phrase suggests a joyful, festive atmosphere, with everyone surrounded by and celebrating with flowers. The music may be intended to capture this sense of celebration and joy.
+
+</div>
